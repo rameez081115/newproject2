@@ -1,0 +1,10 @@
+**Admin Login Details**
+
+Username: admin
+Password: admin123
+
+**Employee Login Details**
+
+Email	 : parvathi@gmail.com
+Password : 1234567890 (Phone Number Password)
+
